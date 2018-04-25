@@ -1,0 +1,12 @@
+# Pelican
+*~
+._*
+*.lock
+*.DS_Store
+*.swp
+*.out
+*.py[cod]
+output
+
+# Virtualenv
+venv/
