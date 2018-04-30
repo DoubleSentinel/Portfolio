@@ -12,7 +12,7 @@ TIMEZONE = 'Europe/Zurich'
 
 DEFAULT_LANG = 'en'
 
-#THEME = './custom-theme/materialize/'
+THEME = './custom-theme/pelican-material/'
 
 # Feed generation is usually not desired when developing
 FEED_ALL_ATOM = None
