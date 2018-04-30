@@ -1,8 +1,6 @@
-(function($){
-  $(function(){
-    $('.button-collapse').sideNav();
-    $('.dropdown-button').dropdown();
-    $('.materialboxed').materialbox();
+$(document).ready(function(){
     $('.parallax').parallax();
-  });
-})(jQuery);
+    $('.sidenav').sidenav();
+    $('.dropdown-trigger').dropdown();
+    $('.materialboxed').materialbox();
+});
